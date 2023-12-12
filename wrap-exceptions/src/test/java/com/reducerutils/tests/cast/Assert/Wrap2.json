@@ -1,0 +1,14 @@
+{
+    "wraps": [
+        {
+            "type": "cast",
+            "lineNo": 5,
+            "exceptionType": "java.lang.ClassCastException"
+        },
+        {
+            "type": "AOB",
+            "lineNo": 5,
+            "exceptionType": "java.lang.ArrayIndexOutOfBoundsException"
+        }
+    ]
+}

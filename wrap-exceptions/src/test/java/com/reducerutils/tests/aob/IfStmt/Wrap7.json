@@ -1,0 +1,24 @@
+{
+    "wraps": [
+        {
+            "type": "AOB",
+            "lineNo": 8,
+            "exceptionType": "java.lang.ArrayIndexOutOfBoundsException"
+        },
+        {
+            "type": "AOB",
+            "lineNo": 10,
+            "exceptionType": "java.lang.ArrayIndexOutOfBoundsException"
+        },
+        {
+            "type": "AOB",
+            "lineNo": 12,
+            "exceptionType": "java.lang.ArrayIndexOutOfBoundsException"
+        },
+        {
+            "type": "AOB",
+            "lineNo": 13,
+            "exceptionType": "java.lang.ArrayIndexOutOfBoundsException"
+        }
+    ]
+}

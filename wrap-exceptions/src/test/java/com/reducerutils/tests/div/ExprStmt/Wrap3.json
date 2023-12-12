@@ -1,0 +1,15 @@
+{
+    "wraps": [
+        {
+            "type": "divZero",
+            "lineNo": 7,
+            "exceptionType": "java.lang.ArithmeticException"
+        },
+        {
+            "type": "divZero",
+            "lineNo": 9,
+            "exceptionType": "java.lang.ArithmeticException"
+
+        }
+    ]
+}

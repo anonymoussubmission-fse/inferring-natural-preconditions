@@ -1,0 +1,9 @@
+{
+    "wraps": [
+        {
+            "type": "AOB",
+            "lineNo": 5,
+            "exceptionType": "java.lang.ArrayIndexOutOfBoundsException"
+        }
+    ]
+}

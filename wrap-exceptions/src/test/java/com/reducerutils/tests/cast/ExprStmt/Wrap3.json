@@ -1,0 +1,14 @@
+{
+    "wraps": [
+        {
+            "type": "cast",
+            "lineNo": 7,
+            "exceptionType": "java.lang.ClassCastException"
+        },
+        {
+            "type": "negArray",
+            "lineNo": 8,
+            "exceptionType": "java.lang.NegativeArraySizeException"
+        }
+    ]
+}

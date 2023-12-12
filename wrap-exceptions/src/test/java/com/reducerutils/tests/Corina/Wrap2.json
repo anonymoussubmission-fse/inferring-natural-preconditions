@@ -1,0 +1,14 @@
+{
+    "wraps": [
+        {
+            "type": "NPE",
+            "lineNo": 19,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "cast",
+            "lineNo": 19,
+            "exceptionType": "java.lang.ClassCastException"
+        }
+    ]
+}

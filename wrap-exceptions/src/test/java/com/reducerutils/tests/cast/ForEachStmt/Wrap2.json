@@ -1,0 +1,9 @@
+{
+    "wraps": [
+        {
+            "type": "cast",
+            "lineNo": 14,
+            "exceptionType": "java.lang.ClassCastException"
+        }
+    ]
+}

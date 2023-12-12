@@ -1,0 +1,9 @@
+{
+    "wraps": [
+        {
+            "type": "call",
+            "lineNo": 8,
+            "exceptionType": "java.lang.RuntimeException"
+        }
+    ]
+}

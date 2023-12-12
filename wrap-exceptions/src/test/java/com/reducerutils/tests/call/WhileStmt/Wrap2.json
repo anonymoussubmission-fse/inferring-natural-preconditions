@@ -1,0 +1,14 @@
+{
+    "wraps": [
+        {
+            "type": "call",
+            "lineNo": 8,
+            "exceptionType": "java.lang.ParseException"
+        },
+        {
+            "type": "call",
+            "lineNo": 12,
+            "exceptionType": "java.lang.RuntimeException"
+        }
+    ]
+}

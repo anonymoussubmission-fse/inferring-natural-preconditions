@@ -1,0 +1,19 @@
+{
+    "wraps": [
+        {
+            "type": "call",
+            "lineNo": 9,
+            "exceptionType": "java.lang.IndexOutOfBoundsException"
+        },
+        {
+            "type": "call",
+            "lineNo": 6,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "call",
+            "lineNo": 7,
+            "exceptionType": "java.lang.IndexOutOfBoundsException"
+        }
+    ]
+}

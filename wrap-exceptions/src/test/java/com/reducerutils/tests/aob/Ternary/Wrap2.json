@@ -1,0 +1,14 @@
+{
+    "wraps": [
+        {
+            "type": "AOB",
+            "lineNo": 4,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "divZero",
+            "lineNo": 4,
+            "exceptionType": "java.lang.ArrayIndexOutOfBoundsException",
+        }
+    ]
+}

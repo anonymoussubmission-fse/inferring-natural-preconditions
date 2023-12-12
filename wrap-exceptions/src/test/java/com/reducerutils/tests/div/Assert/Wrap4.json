@@ -1,0 +1,14 @@
+{
+    "wraps": [
+        {
+            "type": "AOB",
+            "lineNo": 5,
+            "exceptionType": "java.lang.ArrayIndexOutOfBoundsException"
+        },
+        {
+            "type": "divZero",
+            "lineNo": 5,
+            "exceptionType": "java.lang.ArithmeticException"
+        }
+    ]
+}

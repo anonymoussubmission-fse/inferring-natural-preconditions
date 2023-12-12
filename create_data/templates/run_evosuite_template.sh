@@ -1,0 +1,18 @@
+OUT_FOLDER=evosuite-tests
+EVOSUITE=$PRECOND_LIBS/evosuite-1.2.0.jar
+
+BASE=$(pwd)
+
+FULLY_QUALIFIED_SAMPLE=$1
+NEWJAR=$2
+OLDJAR=$3
+CLASSJARS=$4
+LIBJARS=$5
+
+
+echo "running on class"
+echo  $FULLY_QUALIFIED_SAMPLE
+echo "with class path"
+echo $CLASSJARS:$NEWJAR:$OLDJAR:$LIBJARS
+
+java -jar $EVOSUITE -class $FULLY_QUALIFIED_SAMPLE -projectCP $CLASSJARS:$NEWJAR:$OLDJAR:$LIBJARS  -Dsearch_budget=660

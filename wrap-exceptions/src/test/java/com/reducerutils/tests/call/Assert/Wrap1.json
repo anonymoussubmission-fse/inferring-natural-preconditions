@@ -1,0 +1,14 @@
+{
+    "wraps": [
+        {
+            "type": "NPE",
+            "lineNo": 5,
+            "exceptionType": "java.lang.NullPointerExeption"
+        },
+        {
+            "type": "call",
+            "lineNo": 5,
+            "exceptionType": "java.lang.IndexOutOfBoundsException"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "wraps": [
+        {
+            "type": "call",
+            "lineNo": 10,
+            "exceptionType": "java.lang.JavaLangException"
+        },
+        {
+            "type": "NPE",
+            "lineNo": 11,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "call",
+            "lineNo": 11,
+            "exceptionType": "java.lang.RuntimeException"
+        },
+        {
+            "type": "call",
+            "lineNo": 23,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "call",
+            "lineNo": 35,
+            "exceptionType": "java.lang.ClassCastException"
+        }
+    ]
+}

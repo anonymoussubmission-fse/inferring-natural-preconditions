@@ -1,0 +1,19 @@
+{
+    "wraps": [
+        {
+            "type": "negArray",
+            "lineNo": 5,
+            "exceptionType": "java.lang.NegativeArraySizeException"
+        },
+        {
+            "type": "negArray",
+            "lineNo": 6,
+            "exceptionType": "java.lang.NegativeArraySizeException"
+        },
+        {
+            "type": "NPE",
+            "lineNo": 6,
+            "exceptionType": "java.lang.NullPointerException"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "wraps": [
+        {
+            "type": "NPE",
+            "lineNo": 5,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "NPE",
+            "lineNo": 7,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "NPE",
+            "lineNo": 13,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "NPE",
+            "lineNo": 16,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "NPE",
+            "lineNo": 17,
+            "exceptionType": "java.lang.NullPointerException"
+        }
+    ]
+}

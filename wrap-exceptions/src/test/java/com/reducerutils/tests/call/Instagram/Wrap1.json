@@ -1,0 +1,24 @@
+{
+    "wraps": [
+        {
+            "type": "call",
+            "lineNo": 6,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "call",
+            "lineNo": 7,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "call",
+            "lineNo": 12,
+            "exceptionType": "java.lang.NullPointerException"
+        },
+        {
+            "type": "call",
+            "lineNo": 17,
+            "exceptionType": "java.lang.NullPointerException"
+        }
+    ]
+}
